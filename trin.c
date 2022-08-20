@@ -6,7 +6,7 @@ printf ("enter the height of the tringle");
 scanf("%f", &height);
 printf("enter the breath of tringle");
 scanf("%f",&base);
-printf("area of tringle is : %f",  base * height /2);
+printf("The area of tringle is : %f",  base * height /2);
 return 0;
 
 }
